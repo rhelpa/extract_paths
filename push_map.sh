@@ -24,13 +24,17 @@ station="${playlist_raw#playlist-}"
 
 # Root for this station
 CAT_ROOT="$CATALOG/$station"
-echo "→ Linking into: $CAT_ROOT/"
+echo "→ Preparing catalog at: $CAT_ROOT/"
 mkdir -p "$CAT_ROOT"
 
-# Preload existing subdirectories under this station
+# Preload existing subdirectories under this station (for reuse)
 mapfile -t EXISTING < <(
   find "$CAT_ROOT" -mindepth 1 -maxdepth 1 -type d -printf '%f\n'
 )
+
+# Clear out any previous contents for a fresh run
+echo "🧹  Clearing existing contents in $CAT_ROOT ..."
+rm -rf "$CAT_ROOT"/*
 
 declare -A SHOW_TARGETS   # cache of user choices for each TV show
 
@@ -45,17 +49,14 @@ while IFS='|' read -r src_rel tgt_sub; do
   fi
 
   if [[ -n "$show" ]]; then
-    # if we've already asked for this show, reuse the answer
     if [[ -n "${SHOW_TARGETS[$show]:-}" ]]; then
       tgt_sub="${SHOW_TARGETS[$show]}"
       echo
       echo "📺 $show → using cached target: $tgt_sub"
     else
-      # first episode of this show: prompt once
       echo
       echo "📺 Show: $show"
       echo "Default target subdir: $tgt_sub"
-      # build menu
       options=( "$tgt_sub" "${EXISTING[@]}" "CUSTOM" )
       PS3="Choose target for \"$show\" (1-${#options[@]}): "
       select opt in "${options[@]}"; do
@@ -70,15 +71,12 @@ while IFS='|' read -r src_rel tgt_sub; do
         fi
       done < /dev/tty
 
-      # cache this choice
       SHOW_TARGETS[$show]="$tgt_sub"
-      # add to EXISTING if new
       if ! printf '%s\n' "${EXISTING[@]}" | grep -Fxq "$tgt_sub"; then
         EXISTING+=("$tgt_sub")
       fi
     fi
   else
-    # non-TV (e.g. movies) — prompt per-file as before
     echo
     echo "🎬 File: $src_rel"
     echo "Default target subdir: $tgt_sub"
@@ -96,7 +94,6 @@ while IFS='|' read -r src_rel tgt_sub; do
       fi
     done < /dev/tty
 
-    # add new to cache
     if ! printf '%s\n' "${EXISTING[@]}" | grep -Fxq "$tgt_sub"; then
       EXISTING+=("$tgt_sub")
     fi
