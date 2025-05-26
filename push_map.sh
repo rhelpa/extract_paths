@@ -42,6 +42,49 @@ declare -A SHOW_TARGETS   # cache of user choices for each TV show
 while IFS='|' read -r src_rel tgt_sub; do
   [[ -z "$src_rel" || "$src_rel" =~ ^# ]] && continue
 
+  # Special case: if this is the root of Bumps or Commercials, drill into each subdirectory
+  if [[ "$src_rel" == "Bumps" || "$src_rel" == "Commercials" ]]; then
+    echo
+    echo "📂 Expanding category: $src_rel/"
+    for d in "$SHARE/$src_rel"/*/; do
+      [[ -d "$d" ]] || continue
+      subpath="${src_rel}/$(basename "$d")"
+      default="${tgt_sub}"
+
+      # ask where to link this bump/commercial
+      echo
+      echo "🎬 Item: $subpath"
+      echo "Default target subdir: $default"
+      options=( "$default" "${EXISTING[@]}" "CUSTOM" )
+      PS3="Choose target for \"$subpath\" (1-${#options[@]}): "
+      select opt in "${options[@]}"; do
+        if [[ -n "$opt" ]]; then
+          if [[ "$opt" == "CUSTOM" ]]; then
+            read -rp "Enter custom subdir name: " opt < /dev/tty
+          fi
+          tgt_choice="$opt"
+          break
+        else
+          echo "⚠️  Invalid choice." >&2
+        fi
+      done < /dev/tty
+
+      # add to EXISTING if new
+      if ! printf '%s\n' "${EXISTING[@]}" | grep -Fxq "$tgt_choice"; then
+        EXISTING+=("$tgt_choice")
+      fi
+
+      # link it
+      dst_dir="$CAT_ROOT/$tgt_choice"
+      mkdir -p "$dst_dir"
+      ln -sfn "$d" "$dst_dir/$(basename "$d")"
+      echo "📁 Linked $(basename "$d") → $station/$tgt_choice/"
+    done
+
+    # skip the normal single-link path for this entry
+    continue
+  fi
+
   # detect TV show grouping
   show=""
   if [[ "$src_rel" =~ ^TV\ Shows/([^/]+)/ ]]; then
@@ -99,7 +142,7 @@ while IFS='|' read -r src_rel tgt_sub; do
     fi
   fi
 
-  # perform symlink
+  # perform symlink for single file or directory
   src="$SHARE/$src_rel"
   dst_dir="$CAT_ROOT/$tgt_sub"
   dst="$dst_dir/$(basename "$src_rel")"
