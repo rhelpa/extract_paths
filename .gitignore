@@ -71,3 +71,4 @@ dmypy.json
 # CSV/TXT
 .CSV
 .txt
+.json

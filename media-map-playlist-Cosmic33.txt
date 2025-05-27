@@ -1,66 +1,79 @@
 /Bumps|bump
 /Commercials|commercial
-Genres/Action/03 RoboCop 3 - Sci-Fi 1993 Eng Spa Multi-Subs 1080p [H264-mp4].mp4|movie
-Genres/Action/04 RoboCop 4 - Sci-Fi 2014 Eng Spa Multi-Subs 1080p [H264-mp4].mp4|movie
-Genres/Action/Minority Report (2002).mp4|movie
-Genres/Action/RoboCop (1987).avi|movie
-Genres/Action/RoboCop 2.mp4|movie
-Genres/Action/Starship Troopers (1997).mp4|movie
-Genres/Action/Terminator/Terminator 3 Rise of The Machines (2003).mp4|movie
-Genres/Action/Terminator/Terminator Dark Fate (2019).mp4|movie
-Genres/Action/Terminator/Terminator Genisys (2015).mp4|movie
-Genres/Action/Terminator/Terminator Salvation (2009).mp4|movie
-Genres/Action/Terminator/Terminator.2.Judgment.Day.1991.DC.1080p.BRrip.x264.GAZ.YIFY.mp4|movie
-Genres/Action/Terminator/The Terminator (1984).mp4|movie
-Genres/Action/The Matrix Trilogy/The Matrix (1999).mp4|movie
-Genres/Action/The Matrix Trilogy/The Matrix Reloaded (2003).mp4|movie
-Genres/Action/The Matrix Trilogy/The Matrix Revolutions (2003).mp4|movie
-Genres/Action/The Matrix Trilogy/The.Matrix.Resurrections.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4|movie
-Genres/Action/The.Adam.Project.2022.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4|movie
-Genres/Action/Total Recall (1990).mp4|movie
-Genres/Comedy/Galaxy Quest (1999).mp4|movie
-Genres/Comedy/Men In Black/Men In Black (1997).mp4|movie
-Genres/Comedy/Men In Black/Men in Black 3 (2012).mp4|movie
-Genres/Comedy/Men In Black/Men in Black II (2002).mp4|movie
-Genres/Comedy/Men In Black/Men.in.Black.International.2019.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG.mkv|movie
 Genres/Drama/12 Monkeys (1995).mp4|movie
-Genres/Drama/Interstellar (2014).mp4|movie
-Genres/Fantasy/Avatar (2009).mp4|movie
-Genres/Fantasy/Avatar.The.Way.Of.Water.2022.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4|movie
-Genres/Sci-Fi/Back to the Future (1985).mp4|movie
-Genres/Sci-Fi/Back to the Future Part II (1989).mp4|movie
-Genres/Sci-Fi/Back to the Future Part III (1990).mp4|movie
-Genres/Sci-Fi/Blade Runner (1982) Final Cut 1080p BluRay.x264 SUJAIDR.mp4|movie
-Genres/Sci-Fi/Blade.Runner.2049.2017.1080p.BluRay.H264.AAC-RARBG.mp4|movie
-Genres/Sci-Fi/Close Encounters of the Third Kind (1977).mp4|movie
-Genres/Sci-Fi/Contac.1997.720p.x264.YIFY.mkv|movie
-Genres/Sci-Fi/Dune.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4|movie
-Genres/Sci-Fi/Dune.Part.Two.2024.720p.WEBRip.x264.AAC-[YTS.MX].mp4|movie
-Genres/Sci-Fi/ET The Extra Terrestrial (1982).mkv|movie
-Genres/Sci-Fi/Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4|movie
-Genres/Sci-Fi/Ready Player One (2018).mp4|movie
-Genres/Sci-Fi/Stargate Extended Cut (1994).mp4|movie
-Genres/Sci-Fi/The Fifth Element Remastered (1997).mp4|movie
-Genres/Sci-Fi/The.Adam.Project.2022.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4|movie
-Genres/Sci-Fi/The.Creator.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv|movie
-Genres/Sci-Fi/The.Martian.2015.EXTENDED.1080p.BRRip.x264.AAC-ETRG.mp4|movie
-Genres/Sci-Fi/Waterworld (1995).mp4|movie
-Genres/Star Wars/Rogue One - A Star Wars Story (2016).mkv|movie
-Genres/Star Wars/Star Wars - Clone Wars (2008) [Animated Movie].avi|movie
-Genres/Star Wars/Star Wars Episode I - The Phantom Menace (1999).mkv|movie
-Genres/Star Wars/Star Wars Episode II - Attack of the Clones (2002).mkv|movie
-Genres/Star Wars/Star Wars Episode III - Revenge of The Sith (2005).mkv|movie
-Genres/Star Wars/Star Wars Episode IV - A New Hope (1977).mkv|movie
-Genres/Star Wars/Star Wars Episode V - The Empire Strikes Back (1980).mkv|movie
-Genres/Star Wars/Star Wars Episode VI - Return Of The Jedi (1983).mkv|movie
-Genres/Star Wars/Star Wars Episode VII - The Force Awakens (2015).mkv|movie
-Genres/Star Wars/Star Wars Rise of the Skywalker (2019).mp4|movie
-Genres/Star Wars/Star Wars The Last Jedi (2017).mp4|movie
-Genres/UFO/Bob.Lazar.Area.51.and.Flying.Saucers.2018.1080p.NF.WEB-DL.H264-ETRG[EtHD].mkv|movie
-Genres/UFO/I Know What I Saw (2009).avi|movie
-Genres/UFO/Mirage Men (2013).mp4|movie
-Genres/UFO/Moment.of.Contact.2022.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.mkv|movie
+TV Shows/The 100/S 01/The.100.S01E01.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 01/The.100.S01E02.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 01/The.100.S01E03.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 01/The.100.S01E04.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 01/The.100.S01E05.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 01/The.100.S01E06.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 01/The.100.S01E07.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 01/The.100.S01E08.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 01/The.100.S01E09.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 01/The.100.S01E10.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 01/The.100.S01E11.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 01/The.100.S01E12.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 01/The.100.S01E13.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 02/The.100.S02E01.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 02/The.100.S02E02.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 02/The.100.S02E03.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 02/The.100.S02E04.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 02/The.100.S02E05.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 02/The.100.S02E06.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 02/The.100.S02E07.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 02/The.100.S02E08.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 02/The.100.S02E09.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 02/The.100.S02E10.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 02/The.100.S02E11.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 02/The.100.S02E12.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 02/The.100.S02E13.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 02/The.100.S02E14.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 02/The.100.S02E15.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 02/The.100.S02E16.HDTV.x264-ChameE.mkv|tv_show
+TV Shows/The 100/S 03/The 100 S03E01 Wanheda, Part 1.mkv|tv_show
+TV Shows/The 100/S 03/The 100 S03E02 Wanheda, Part 2.mkv|tv_show
+TV Shows/The 100/S 03/The 100 S03E03 Ye Who Enter Here.mkv|tv_show
+TV Shows/The 100/S 03/The 100 S03E04 Watch the Thrones.mkv|tv_show
+TV Shows/The 100/S 03/The 100 S03E05 Hakeldama.mkv|tv_show
+TV Shows/The 100/S 03/The 100 S03E06 Bitter Harvest.mkv|tv_show
+TV Shows/The 100/S 03/The 100 S03E07 Thirteen.mkv|tv_show
+TV Shows/The 100/S 03/The 100 S03E08 Terms and Conditions.mkv|tv_show
+TV Shows/The 100/S 03/The 100 S03E09 Stealing Fire.mkv|tv_show
+TV Shows/The 100/S 03/The 100 S03E10 Fallen.mkv|tv_show
+TV Shows/The 100/S 03/The 100 S03E11 Nevermore.mkv|tv_show
+TV Shows/The 100/S 03/The 100 S03E12 Demons.mkv|tv_show
+TV Shows/The 100/S 03/The 100 S03E13 Join or Die.mkv|tv_show
+TV Shows/The 100/S 03/The 100 S03E14 Red Sky at Morning.mkv|tv_show
+TV Shows/The 100/S 03/The 100 S03E15 Perverse Instantiation, Part 1.mkv|tv_show
+TV Shows/The 100/S 03/The 100 S03E16 Perverse Instantiation, Part 2.mkv|tv_show
+TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E01.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
+TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E02.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
+TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E03.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
+TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E04.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
+TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E05.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
+TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E06.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
+TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E07.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
+TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E08.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
+TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E09.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
+TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E10.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
+TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E11.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
+TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E12.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
+TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E13.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
+TV Shows/The 100/S 05/The 100 S05E01 Eden.mkv|tv_show
+TV Shows/The 100/S 05/The 100 S05E02 Red Queen.mkv|tv_show
+TV Shows/The 100/S 05/The 100 S05E03 Sleeping Giants.mkv|tv_show
+TV Shows/The 100/S 05/The 100 S05E04 Pandora's Box.mkv|tv_show
+TV Shows/The 100/S 05/The 100 S05E05 Shifting Sands.mkv|tv_show
+TV Shows/The 100/S 05/The 100 S05E06 Exit Wounds.mkv|tv_show
+TV Shows/The 100/S 05/The 100 S05E07 Acceptable Losses.mkv|tv_show
+TV Shows/The 100/S 05/The 100 S05E08 How We Get to Peace.mkv|tv_show
+TV Shows/The 100/S 05/The 100 S05E09 Sic Semper Tyrannis.mkv|tv_show
+TV Shows/The 100/S 05/The 100 S05E10 The Warriors Will.mkv|tv_show
+TV Shows/The 100/S 05/The 100 S05E11 The Dark Year.mkv|tv_show
+TV Shows/The 100/S 05/The 100 S05E12 Damocles – Part One.mkv|tv_show
+TV Shows/The 100/S 05/The 100 S05E13 Damocles – Part Two.mkv|tv_show
 TV Shows/Babylon 5/B5_S01/S01E01_Midnight_on_the_Firing_Line.mkv|tv_show
+TV Shows/Babylon 5/Movies/M07_Lost_Tales_-_01_Voices_in_the_Dark.mkv|movie
 TV Shows/Babylon 5/B5_S01/S01E02_Soul_Hunter.mkv|tv_show
 TV Shows/Babylon 5/B5_S01/S01E03_Born_to_the_Purple.mkv|tv_show
 TV Shows/Babylon 5/B5_S01/S01E04_Infection.mkv|tv_show
@@ -170,20 +183,19 @@ TV Shows/Babylon 5/B5_S05/S05E19_The_Wheel_of_Fire.mkv|tv_show
 TV Shows/Babylon 5/B5_S05/S05E20_Objects_in_Motion.mkv|tv_show
 TV Shows/Babylon 5/B5_S05/S05E21_Objects_at_Rest.mkv|tv_show
 TV Shows/Babylon 5/B5_S05/S05E22_Sleeping_in_Light.mkv|tv_show
-TV Shows/Babylon 5/Movies/M07_Lost_Tales_-_01_Voices_in_the_Dark.mkv|movie
 TV Shows/Black Mirror/Black.Mirror.S01.1080p.WEBRip.x265.HEVC.2CH-MRN/Black.Mirror.S01E01.The National Anthem.1080p.WEBRip.x265.HEVC.2CH-MRN.mkv|tv_show
 TV Shows/Black Mirror/Black.Mirror.S01.1080p.WEBRip.x265.HEVC.2CH-MRN/Black.Mirror.S01E02.Million.Merits.1080p.WEBRip.x265.HEVC.2CH-MRN.mkv|tv_show
 TV Shows/Black Mirror/Black.Mirror.S01.1080p.WEBRip.x265.HEVC.2CH-MRN/Black.Mirror.S01E03.The.Entire.History.of.You.1080p.WEBRip.x265.HEVC.2CH-MRN.mkv|tv_show
 TV Shows/Black Mirror/Black.Mirror.S02.1080p.WEBRip.x265.HEVC.2CH-MRN/Black.Mirror.S02E01.Be.Right.Back.1080p.WEBRip.x265.HEVC.2CH-MRN.mkv|tv_show
 TV Shows/Black Mirror/Black.Mirror.S02.1080p.WEBRip.x265.HEVC.2CH-MRN/Black.Mirror.S02E02.White.Bear.1080p.WEBRip.x265.HEVC.2CH-MRN.mkv|tv_show
 TV Shows/Black Mirror/Black.Mirror.S02.1080p.WEBRip.x265.HEVC.2CH-MRN/Black.Mirror.S02E03.The.Waldo.Moment.1080p.WEBRip.x265.HEVC.2CH-MRN.mkv|tv_show
+TV Shows/Black Mirror/Black.Mirror.S03E00.Special.White.Chirstmas.1080p.WEBRip.x265.HEVC.2CH-MRN.mkv|tv_show
 TV Shows/Black Mirror/Black.Mirror.S03.1080p.NF.WEBRip.x265.HEVC.6CH-MRN/Black.Mirror.S03E01.Nosedive.1080p.NF.WEBRip.x265.HEVC.6CH-MRN.mkv|tv_show
 TV Shows/Black Mirror/Black.Mirror.S03.1080p.NF.WEBRip.x265.HEVC.6CH-MRN/Black.Mirror.S03E02.Playtest.1080p.NF.WEBRip.x265.HEVC.6CH-MRN.mkv|tv_show
 TV Shows/Black Mirror/Black.Mirror.S03.1080p.NF.WEBRip.x265.HEVC.6CH-MRN/Black.Mirror.S03E03.Shut.Up.and.Dance.1080p.NF.WEBRip.x265.HEVC.6CH-MRN.mkv|tv_show
 TV Shows/Black Mirror/Black.Mirror.S03.1080p.NF.WEBRip.x265.HEVC.6CH-MRN/Black.Mirror.S03E04.San.Junipero.1080p.NF.WEBRip.x265.HEVC.6CH-MRN.mkv|tv_show
 TV Shows/Black Mirror/Black.Mirror.S03.1080p.NF.WEBRip.x265.HEVC.6CH-MRN/Black.Mirror.S03E05.Men.Against.Fire.1080p.NF.WEBRip.x265.HEVC.6CH-MRN.mkv|tv_show
 TV Shows/Black Mirror/Black.Mirror.S03.1080p.NF.WEBRip.x265.HEVC.6CH-MRN/Black.Mirror.S03E06.Hated.in.the.Nation.1080p.NF.WEBRip.x265.HEVC.6CH-MRN.mkv|tv_show
-TV Shows/Black Mirror/Black.Mirror.S03E00.Special.White.Chirstmas.1080p.WEBRip.x265.HEVC.2CH-MRN.mkv|tv_show
 TV Shows/Black Mirror/Black.Mirror.S04.1080p.NF.WEBRip.x265.HEVC.6CH-MRN/Black.Mirror.S04E01.USS.Callister.1080p.NF.WEBRip.x265.HEVC.6CH-MRN.mkv|tv_show
 TV Shows/Black Mirror/Black.Mirror.S04.1080p.NF.WEBRip.x265.HEVC.6CH-MRN/Black.Mirror.S04E02.ArkAngel.1080p.NF.WEBRip.x265.HEVC.6CH-MRN.mkv|tv_show
 TV Shows/Black Mirror/Black.Mirror.S04.1080p.NF.WEBRip.x265.HEVC.6CH-MRN/Black.Mirror.S04E03.Crocodile.1080p.NF.WEBRip.x265.HEVC.6CH-MRN.mkv|tv_show
@@ -196,6 +208,77 @@ TV Shows/Black Mirror/Black.Mirror.S05.COMPLETE.1080p.NF.WEBRip.DDP5.1.x264-NTG[
 TV Shows/Dune/Dune.2000.S01E01.Dune.2160p.AI.UHD.mkv|tv_show
 TV Shows/Dune/Dune.2000.S01E02.MuadDib.2160p.AI.UHD.mkv|tv_show
 TV Shows/Dune/Dune.2000.S01E03.The.Prophet.2160p.AI.UHD.mkv|tv_show
+TV Shows/The Expanse/S01/The Expanse - S01 E01 - Dulcinea (720p HDTV).mp4|tv_show
+TV Shows/The Expanse/S01/The Expanse - S01 E02 - The Big Empty (720p HDTV).mp4|tv_show
+TV Shows/The Expanse/S01/The Expanse - S01 E03 - Remember the Cant (720p HDTV).mp4|tv_show
+TV Shows/The Expanse/S01/The Expanse - S01 E04 - CQB aka Close Quarters Battle (720p HDTV).mp4|tv_show
+TV Shows/The Expanse/S01/The Expanse - S01 E05 - Back to the Butcher (720p HDTV).mp4|tv_show
+TV Shows/The Expanse/S01/The Expanse - S01 E06 - Rock Bottom (720p HDTV).mp4|tv_show
+TV Shows/The Expanse/S01/The Expanse - S01 E07 - Windmills (720p HDTV).mp4|tv_show
+TV Shows/The Expanse/S01/The Expanse - S01 E08 - Salvage (720p HDTV).mp4|tv_show
+TV Shows/The Expanse/S01/The Expanse - S01 E09 - Critical Mass (720p HDTV).mp4|tv_show
+TV Shows/The Expanse/S01/The Expanse - S01 E10 - Leviathan Wakes (720p HDTV).mp4|tv_show
+TV Shows/The Expanse/S02/The EXPANSE - S02 E01 - Safe (720p AMZN WebRip).mp4|tv_show
+TV Shows/The Expanse/S02/The EXPANSE - S02 E02 - Doors and Corners (720p AMZN WebRip).mp4|tv_show
+TV Shows/The Expanse/S02/The EXPANSE - S02 E03 - Static (720p AMZN WebRip).mp4|tv_show
+TV Shows/The Expanse/S02/The EXPANSE - S02 E04 - Godspeed (720p AMZN WebRip).mp4|tv_show
+TV Shows/The Expanse/S02/The EXPANSE - S02 E05 - Home (720p AMZN WebRip).mp4|tv_show
+TV Shows/The Expanse/S02/The EXPANSE - S02 E06 - Paradigm Shift (720p AMZN WebRip).mp4|tv_show
+TV Shows/The Expanse/S02/The EXPANSE - S02 E07 - The Seventh Man (720p AMZN WebRip).mp4|tv_show
+TV Shows/The Expanse/S02/The EXPANSE - S02 E08 - Pyre (720p AMZN WebRip).mp4|tv_show
+TV Shows/The Expanse/S02/The EXPANSE - S02 E09 - The Weeping Somnambulist (720p AMZN WebRip).mp4|tv_show
+TV Shows/The Expanse/S02/The EXPANSE - S02 E10 - Cascade (720p AMZN WebRip).mp4|tv_show
+TV Shows/The Expanse/S02/The EXPANSE - S02 E11 - Here There Be Dragons (720p AMZN WebRip).mp4|tv_show
+TV Shows/The Expanse/S02/The EXPANSE - S02 E12 - The Monster and the Rocket (720p AMZN WebRip).mp4|tv_show
+TV Shows/The Expanse/S02/The EXPANSE - S02 E13 - Caliban's War (720p AMZN WebRip).mp4|tv_show
+TV Shows/The Expanse/S03/The EXPANSE - S03 E01 - Fight or Flight (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S03/The EXPANSE - S03 E02 - IFF (720p Repack - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S03/The EXPANSE - S03 E03 - Assured Destruction (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S03/The EXPANSE - S03 E04 - Reload (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S03/The EXPANSE - S03 E05 - Triple Point (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S03/The EXPANSE - S03 E06 - Immolation (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S03/The EXPANSE - S03 E07 - Delta-V (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S03/The EXPANSE - S03 E08 - It Reaches Out (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S03/The EXPANSE - S03 E09 - Intransigence (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S03/The EXPANSE - S03 E10 - Dandelion Sky (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S03/The EXPANSE - S03 E11 - Fallen World (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S03/The EXPANSE - S03 E12 - Congregation (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S03/The EXPANSE - S03 E13 - Abaddon's Gate (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S04/The EXPANSE - S04 E01 - New Terra (720p - AMZN Web-DL).mp4.mp4|tv_show
+TV Shows/The Expanse/S04/The EXPANSE - S04 E02 - Jetsam (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S04/The EXPANSE - S04 E03 - Subduction (720p - AMZN Web-DL).mp4.mp4|tv_show
+TV Shows/The Expanse/S04/The EXPANSE - S04 E04 - Retrograde (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S04/The EXPANSE - S04 E05 - Oppressor (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S04/The EXPANSE - S04 E06 - Displacement (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S04/The EXPANSE - S04 E07 - A Shot in The Dark (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S04/The EXPANSE - S04 E08 - The One-Eyed Man (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S04/The EXPANSE - S04 E09 - Saeculum (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S04/The EXPANSE - S04 E10 - Cibola Burn (720p - AMZN Web-DL).mp4|tv_show
+TV Shows/The Expanse/S05/The.Expanse.S05E01.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Expanse/S05/The.Expanse.S05E02.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Expanse/S05/The.Expanse.S05E03.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Expanse/S05/The.Expanse.S05E04.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Expanse/S05/The.Expanse.S05E05.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Expanse/S05/The.Expanse.S05E06.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Expanse/S05/The.Expanse.S05E07.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Expanse/S05/The.Expanse.S05E08.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Expanse/S05/The.Expanse.S05E09.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Expanse/S05/The.Expanse.S05E10.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/Firefly/01_Serenity.avi|tv_show
+TV Shows/Firefly/02_The_train_job.avi|tv_show
+TV Shows/Firefly/03_bushwacked.avi|tv_show
+TV Shows/Firefly/04_Shindig.avi|tv_show
+TV Shows/Firefly/05_Safe.avi|tv_show
+TV Shows/Firefly/06_Our_Mrs_Reynolds.avi|tv_show
+TV Shows/Firefly/07_Jaynestown.avi|tv_show
+TV Shows/Firefly/08_out_Of_Gas.avi|tv_show
+TV Shows/Firefly/09_ Ariel.avi|tv_show
+TV Shows/Firefly/10_War_Stories.avi|tv_show
+TV Shows/Firefly/11_Trash.avi|tv_show
+TV Shows/Firefly/12_The_Message.avi|tv_show
+TV Shows/Firefly/13_Heart_Of_Gold.avi|tv_show
+TV Shows/Firefly/14_Objects_In_Space.avi|tv_show
+TV Shows/Firefly/15_Special_Features.avi|tv_show
 TV Shows/Farscape/Season 01/Farscape Season 01 Episode 01 - Through the Eye of the Needle TSV.mkv|tv_show
 TV Shows/Farscape/Season 01/Farscape Season 01 Episode 02 - I, E.T. TSV.mkv|tv_show
 TV Shows/Farscape/Season 01/Farscape Season 01 Episode 03 - Exodus from Genesis TSV.mkv|tv_show
@@ -284,21 +367,6 @@ TV Shows/Farscape/Season 04/Fasrcape Season 04 Episode 19 - We're So Screwed (Pa
 TV Shows/Farscape/Season 04/Fasrcape Season 04 Episode 20 - We're So Screwed (Part 2) - Hot to Katratzi TSV.mkv|tv_show
 TV Shows/Farscape/Season 04/Fasrcape Season 04 Episode 21 - We're So Screwed (Part 3) - La Bomba TSV.mkv|tv_show
 TV Shows/Farscape/Season 04/Fasrcape Season 04 Episode 22 - Bad Timing TSV.mkv|tv_show
-TV Shows/Firefly/01_Serenity.avi|tv_show
-TV Shows/Firefly/02_The_train_job.avi|tv_show
-TV Shows/Firefly/03_bushwacked.avi|tv_show
-TV Shows/Firefly/04_Shindig.avi|tv_show
-TV Shows/Firefly/05_Safe.avi|tv_show
-TV Shows/Firefly/06_Our_Mrs_Reynolds.avi|tv_show
-TV Shows/Firefly/07_Jaynestown.avi|tv_show
-TV Shows/Firefly/08_out_Of_Gas.avi|tv_show
-TV Shows/Firefly/09_ Ariel.avi|tv_show
-TV Shows/Firefly/10_War_Stories.avi|tv_show
-TV Shows/Firefly/11_Trash.avi|tv_show
-TV Shows/Firefly/12_The_Message.avi|tv_show
-TV Shows/Firefly/13_Heart_Of_Gold.avi|tv_show
-TV Shows/Firefly/14_Objects_In_Space.avi|tv_show
-TV Shows/Firefly/15_Special_Features.avi|tv_show
 TV Shows/Get Backers/Get Backers - 01.mkv|tv_show
 TV Shows/Get Backers/Get Backers - 02.mkv|tv_show
 TV Shows/Get Backers/Get Backers - 03.mkv|tv_show
@@ -468,11 +536,7 @@ TV Shows/Lost/Season 6/Lost.s06e14.The Candidate.mkv|tv_show
 TV Shows/Lost/Season 6/Lost.s06e15.Across The Sea +C.mkv|tv_show
 TV Shows/Lost/Season 6/Lost.s06e16.What They Died For.mkv|tv_show
 TV Shows/Lost/Season 6/Lost.s06e17.The End.mkv|tv_show
-TV Shows/MST3K/MST3K 1003： Merlin's Shop of Mystical Wonders (FULL MOVIE) [3fuosyQA1Ho].mp4|tv_show
-TV Shows/MST3K/MST3K 1005： Blood Waters of Dr  Z (FULL MOVIE) [ud9J-uuXgUo].mp4|tv_show
-TV Shows/MST3K/MST3K 1006： Boggy Creek II (FULL MOVIE) [0wja-198VeY].mp4|tv_show
-TV Shows/MST3K/MST3K 1009： Hamlet (FULL MOVIE) [V25yQNCaCCk].mp4|tv_show
-TV Shows/MST3K/MST3K 1011： Horrors of Spider Island (FULL MOVIE) [AGJ3O3KZP7g].mp4|tv_show
+TV Shows/MST3K/MST3K 508： Operation Kid Brother AKA Operation Double 007  (FULL MOVIE) [tlJiLK3Qc7Y].mp4|tv_show
 TV Shows/MST3K/MST3K 107： Robot Monster (FULL MOVIE) [U5hS_V6V31Q].mp4|tv_show
 TV Shows/MST3K/MST3K 111： Moon Zero Two (FULL EPISODE) [8i5fKkG5SlQ].mp4|tv_show
 TV Shows/MST3K/MST3K 203： Jungle Goddess (FULL MOVIE) [p0B9RPz7OIc].mp4|tv_show
@@ -498,7 +562,6 @@ TV Shows/MST3K/MST3K 420： The Human Duplicators (FULL MOVIE) [VY__v3ClXDw].mp4
 TV Shows/MST3K/MST3K 424： Manos The Hands of Fate (FULL MOVIE) [C71Oj68sN5M].mp4|tv_show
 TV Shows/MST3K/MST3K 503： Swamp Diamonds (FULL MOVIE) [UObz6Q1nU2k].mp4|tv_show
 TV Shows/MST3K/MST3K 507： I Accuse My Parents [o-Y4J62isw8].mp4|tv_show
-TV Shows/MST3K/MST3K 508： Operation Kid Brother AKA Operation Double 007  (FULL MOVIE) [tlJiLK3Qc7Y].mp4|tv_show
 TV Shows/MST3K/MST3K 516： Alien from LA (FULL MOVIE) [8r2PyTZSQRE].mp4|tv_show
 TV Shows/MST3K/MST3K 517： Beginning of the End (FULL MOVIE).mp4|tv_show
 TV Shows/MST3K/MST3K 523： Village of the Giants (FULL MOVIE) [g8aoosDgthM].mp4|tv_show
@@ -512,11 +575,16 @@ TV Shows/MST3K/MST3K 609： The Skydivers (FULL MOVIE) [T4JCFE7IXAc].mp4|tv_show
 TV Shows/MST3K/MST3K 611： Last of the Wild Horses (FULL MOVIE) [AE5RDDk0-DQ].mp4|tv_show
 TV Shows/MST3K/MST3K 621： The Beast of Yucca Flats (FULL MOVIE) [fC_ePuCWdOg].mp4|tv_show
 TV Shows/MST3K/MST3K 622： Angels' Revenge (FULL MOVIES) [XSWqqHQ15VA].mp4|tv_show
-TV Shows/MST3K/MST3K 705： Escape 2000 (FULL MOVIE) [cTLWdhrk2_E].mp4|tv_show
 TV Shows/MST3K/MST3K 817： The Horror of Party Beach (FULL MOVIE) [BAVxbJB9T7c].mp4|tv_show
 TV Shows/MST3K/MST3K 822： Overdrawn at the Memory Bank (FULL MOVIE) [2hBEh1JJ1E0].mp4|tv_show
 TV Shows/MST3K/MST3K 910： The Final Sacrifice (FULL MOVIE) [l7yqX5t2R7A].mp4|tv_show
 TV Shows/MST3K/MST3K 913： Quest of the Delta Knights (FULL MOVIE) [MOoVR47KWPQ].mp4|tv_show
+TV Shows/MST3K/MST3K 1003： Merlin's Shop of Mystical Wonders (FULL MOVIE) [3fuosyQA1Ho].mp4|tv_show
+TV Shows/MST3K/MST3K 1005： Blood Waters of Dr  Z (FULL MOVIE) [ud9J-uuXgUo].mp4|tv_show
+TV Shows/MST3K/MST3K 1006： Boggy Creek II (FULL MOVIE) [0wja-198VeY].mp4|tv_show
+TV Shows/MST3K/MST3K 1009： Hamlet (FULL MOVIE) [V25yQNCaCCk].mp4|tv_show
+TV Shows/MST3K/MST3K 1011： Horrors of Spider Island (FULL MOVIE) [AGJ3O3KZP7g].mp4|tv_show
+TV Shows/MST3K/MST3K 705： Escape 2000 (FULL MOVIE) [cTLWdhrk2_E].mp4|tv_show
 TV Shows/Night Sky/Night.Sky.S01E01.1080p.WEBRip.x265-RARBG[eztv.re].mp4|tv_show
 TV Shows/Night Sky/Night.Sky.S01E02.1080p.WEBRip.x265-RARBG[eztv.re].mp4|tv_show
 TV Shows/Night Sky/Night.Sky.S01E03.1080p.WEBRip.x265-RARBG[eztv.re].mp4|tv_show
@@ -525,6 +593,42 @@ TV Shows/Night Sky/Night.Sky.S01E05.1080p.WEBRip.x265-RARBG[eztv.re].mp4|tv_show
 TV Shows/Night Sky/Night.Sky.S01E06.1080p.WEBRip.x265-RARBG[eztv.re].mp4|tv_show
 TV Shows/Night Sky/Night.Sky.S01E07.1080p.WEBRip.x265-RARBG[eztv.re].mp4|tv_show
 TV Shows/Night Sky/Night.Sky.S01E08.1080p.WEBRip.x265-RARBG[eztv.re].mp4|tv_show
+TV Shows/The Orville/S01/The.Orville.S01E01.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S01/The.Orville.S01E02.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S01/The.Orville.S01E03.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S01/The.Orville.S01E04.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S01/The.Orville.S01E05.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S01/The.Orville.S01E06.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S01/The.Orville.S01E07.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S01/The.Orville.S01E08.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S01/The.Orville.S01E09.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S01/The.Orville.S01E10.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S01/The.Orville.S01E11.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S01/The.Orville.S01E12.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S02/The.Orville.S02E01.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S02/The.Orville.S02E02.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S02/The.Orville.S02E03.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S02/The.Orville.S02E04.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S02/The.Orville.S02E05.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S02/The.Orville.S02E06.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S02/The.Orville.S02E07.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S02/The.Orville.S02E08.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S02/The.Orville.S02E09.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S02/The.Orville.S02E10.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S02/The.Orville.S02E11.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S02/The.Orville.S02E12.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S02/The.Orville.S02E13.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S02/The.Orville.S02E14.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S03/The.Orville.S03E01.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S03/The.Orville.S03E02.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S03/The.Orville.S03E03.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S03/The.Orville.S03E04.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S03/The.Orville.S03E05.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S03/The.Orville.S03E06.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S03/The.Orville.S03E07.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S03/The.Orville.S03E08.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S03/The.Orville.S03E09.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
+TV Shows/The Orville/S03/The.Orville.S03E10.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
 TV Shows/Outer Range/S01/Outer.Range.S01E01.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
 TV Shows/Outer Range/S01/Outer.Range.S01E02.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
 TV Shows/Outer Range/S01/Outer.Range.S01E03.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
@@ -540,111 +644,16 @@ TV Shows/Outer Range/S02/Outer.Range.S02E04.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|t
 TV Shows/Outer Range/S02/Outer.Range.S02E05.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
 TV Shows/Outer Range/S02/Outer.Range.S02E06.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
 TV Shows/Outer Range/S02/Outer.Range.S02E07.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/Quantum Leap/Quantum Leap S01E01, 02 (Genesis).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S01E03 (Star-Crossed).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S01E04 (The Right Hand of God).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S01E05 (How the Tess was Won).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S01E06 (Double Identity).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S01E07 (The Color of Truth).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S01E08 (Camikazi Kid).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S01E09 (Play It Again, Seymour).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E01 (Honeymoon Express).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E02 (Disco Inferno).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E03 (The Americanization of Machiko).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E04 (What Price Gloria).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E05 (Blind Faith).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E06 (Good Morning, Peoria).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E07 (Thou Shalt Not...).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E08 (Jimmy).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E09 (So Help Me God).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E10 (Catch a Falling Star).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E11 (A Portrait for Troian).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E12 (Animal Frat).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E13 (Another Mother).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E14 (All-American).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E15 (Her Charm).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E16 (Freedom).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E17 (Good Night Dear Heart).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E18 (Pool Hall Blues).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E19 (Leaping in Without a Net).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E20 (Maybe Baby).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E21 (Sea Bride).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S02E22 (M.I.A.).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E01 (The Leap Home - Pt1).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E02 (The Leap Home - Pt2).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E03 (Leap of Faith).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E04 (One Strobe over the Line).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E05 (The Boogieman).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E06 (Miss Deep South).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E07 (Black and White on Fire).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E08 (The Great Spontini).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E09 (Rebel without a Clue).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E10 (A Little Miracle).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E11 (Runaway).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E12 (Eight and a Half Months).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E13 (Future Boy).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E14 (Private Dancer).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E15 (Piano Man).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E16 (Southern Comforts).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E17 (Glitter Rock).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E18 (A Hunting We Will Go).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E19 (Last Dance Before Execution).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E20 (Heart of a Champion).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E21 (Nuclear Family).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S03E22 (Shock Theater).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E01 (The Leap Back).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E02 (Play Ball).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E03 (Hurricane).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E04 (Justice).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E05 (Permanent Wave).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E06 (Raped).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E07 (The Wrong Stuff).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E08 (Dreams).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E09 (A Single Drop of Rain).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E10 (Unchained Melody).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E11 (The Play's the Thing).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E12 (Running for Honor).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E13 (Temptation Eyes).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E14 (The Last Gunfighter).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E15 (A Song for the Soul).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E16 (Ghost Ship).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E17 (Roberto).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E18 (It's a Wonderful Life).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E19 (Moments to Live).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E20 (The Curse of Ptah-Hotep).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E21 (Stand Up).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S04E22 (Leap for Lisa).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E01, E02 (Lee Harvey Oswald).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E03 (Leaping of the Shrew).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E04 (Nowhere to Run).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E05 (Killin' Time).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E06 (Star Light, Star Bright).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E07 (Deliver Us From Evil).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E08 (One Little Heart - 1of3).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E09 (For Your Love - 2of3).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E10 (The Last Door - 3of3).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E11 (Promised Land).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E12 (Tale of Two Sweeties).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E13 (Liberation).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E14 (Dr. Ruth).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E15 (Blood Moon).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E16 (Return of the Evil Leaper).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E17 (Revenge of the Evil Leaper).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E18 (Goodbye Norma Jean).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E19 (The Beast Within).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E20 (The Leap Between the States).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E21 (Memphis Melody).mp4|tv_show
-TV Shows/Quantum Leap/Quantum Leap S05E22 (Mirror Image).mp4|tv_show
-TV Shows/Resident Alien/S01/Resident.Alien.S01E07.The.Green.Glow.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv|tv_show
-TV Shows/Resident Alien/S01/Resident.Alien.S01E09.Welcome.Aliens.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv|tv_show
-TV Shows/Resident Alien/S01/Resident.Alien.S01E10.Heroes.of.Patience.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv|tv_show
 TV Shows/Resident Alien/S01/resident.alien.s01e01.1080p.web.h264-cakes.mkv|tv_show
 TV Shows/Resident Alien/S01/resident.alien.s01e02.1080p.web.h264-glhf.mkv|tv_show
 TV Shows/Resident Alien/S01/resident.alien.s01e03.1080p.web.h264-ggez.mkv|tv_show
 TV Shows/Resident Alien/S01/resident.alien.s01e04.1080p.web.h264-cakes.mkv|tv_show
 TV Shows/Resident Alien/S01/resident.alien.s01e05.1080p.web.h264-glhf.mkv|tv_show
 TV Shows/Resident Alien/S01/resident.alien.s01e06.1080p.web.h264-cakes.mkv|tv_show
+TV Shows/Resident Alien/S01/Resident.Alien.S01E07.The.Green.Glow.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv|tv_show
 TV Shows/Resident Alien/S01/resident.alien.s01e08.1080p.web.h264-cakes.mkv|tv_show
+TV Shows/Resident Alien/S01/Resident.Alien.S01E09.Welcome.Aliens.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv|tv_show
+TV Shows/Resident Alien/S01/Resident.Alien.S01E10.Heroes.of.Patience.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv|tv_show
 TV Shows/Resident Alien/S02/Resident.Alien.S02E01.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
 TV Shows/Resident Alien/S02/Resident.Alien.S02E02.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
 TV Shows/Resident Alien/S02/Resident.Alien.S02E03.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
@@ -678,15 +687,15 @@ TV Shows/Severance/S01/Severance.S01E06.WEBRip.x264-ION10[eztv.re].mp4|tv_show
 TV Shows/Severance/S01/Severance.S01E07.WEBRip.x264-ION10[eztv.re].mp4|tv_show
 TV Shows/Severance/S01/Severance.S01E08.WEBRip.x264-ION10[eztv.re].mp4|tv_show
 TV Shows/Severance/S01/Severance.S01E09.WEBRip.x264-ION10[eztv.re].mp4|tv_show
+TV Shows/Severance/S02/Severance.S02E01.720p.HEVC.x265-MeGusta[EZTVx.to].mkv|tv_show
+TV Shows/Severance/S02/Severance.S02E02.Goodbye.Mrs.Selvig.720p.HEVC.x265-MeGusta[EZTVx.to].mkv|tv_show
 TV Shows/Severance/S02/Severance S02E03 Who Is Alive 720p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX[EZTVx.to].mkv|tv_show
 TV Shows/Severance/S02/Severance S02E04 Woes Hollow 720p ATVP WEB-DL DDP5 1 H 264-NTb[EZTVx.to].mkv|tv_show
 TV Shows/Severance/S02/Severance S02E05 Trojans Horse 1080p ATVP WEB-DL DDP5 1 H 264-NTb[EZTVx.to].mkv|tv_show
-TV Shows/Severance/S02/Severance S02E09 The After Hours 720p ATVP WEB-DL DDP5 1 H 264-NTb.mkv|tv_show
-TV Shows/Severance/S02/Severance.S02E01.720p.HEVC.x265-MeGusta[EZTVx.to].mkv|tv_show
-TV Shows/Severance/S02/Severance.S02E02.Goodbye.Mrs.Selvig.720p.HEVC.x265-MeGusta[EZTVx.to].mkv|tv_show
+TV Shows/Severance/S02/severance.s02e06.1080p.web.h264-successfulcrab[EZTVx.to].mkv|tv_show
 TV Shows/Severance/S02/Severance.S02E07.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv|tv_show
 TV Shows/Severance/S02/Severance.S02E08.Sweet.Vitriol.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv|tv_show
-TV Shows/Severance/S02/severance.s02e06.1080p.web.h264-successfulcrab[EZTVx.to].mkv|tv_show
+TV Shows/Severance/S02/Severance S02E09 The After Hours 720p ATVP WEB-DL DDP5 1 H 264-NTb.mkv|tv_show
 TV Shows/Star Trek DS9/S01/Star.Trek.DS9-s01e01&e02.Emissary.mkv|tv_show
 TV Shows/Star Trek DS9/S01/Star.Trek.DS9-s01e03.Past.Prologue.mkv|tv_show
 TV Shows/Star Trek DS9/S01/Star.Trek.DS9-s01e04.A.Man.Alone.mkv|tv_show
@@ -860,6 +869,7 @@ TV Shows/Star Trek DS9/S07/Star.Trek.DS9-s07e22.Tacking.Into.the.Wind.mkv|tv_sho
 TV Shows/Star Trek DS9/S07/Star.Trek.DS9-s07e23.Extreme.Measures.mkv|tv_show
 TV Shows/Star Trek DS9/S07/Star.Trek.DS9-s07e24.The.Dogs.of.War.mkv|tv_show
 TV Shows/Star Trek DS9/S07/Star.Trek.DS9-s07e25&e26.What.You.Leave.Behind.mkv|tv_show
+TV Shows/Star Trek TNG/Season.1/Star.Trek.TNG.S01E01-E02 - Encounter at Farpoint.mkv|tv_show
 TV Shows/Star Trek TNG/Season.1/Star.Trek.TNG.S01E01-E02 - Encounter at Farpoint.mkv|tv_show
 TV Shows/Star Trek TNG/Season.1/Star.Trek.TNG.S01E03 - The Naked Now.mkv|tv_show
 TV Shows/Star Trek TNG/Season.1/Star.Trek.TNG.S01E04 - Code of Honor.mkv|tv_show
@@ -1035,6 +1045,7 @@ TV Shows/Star Trek TNG/Season.7/Star.Trek.TNG.S07E22 - Bloodlines.mkv|tv_show
 TV Shows/Star Trek TNG/Season.7/Star.Trek.TNG.S07E23 - Emergence.mkv|tv_show
 TV Shows/Star Trek TNG/Season.7/Star.Trek.TNG.S07E24 - Preemptive Strike.mkv|tv_show
 TV Shows/Star Trek TNG/Season.7/Star.Trek.TNG.S07E25E26 - All Good Things.mkv|tv_show
+TV Shows/Star Trek TNG/Season.7/Star.Trek.TNG.S07E25E26 - All Good Things.mkv|tv_show
 TV Shows/Star Trek Voyager/S01/Star.Trek.Voyager.s01e01.02.Caretaker.x264-LMK.mkv|tv_show
 TV Shows/Star Trek Voyager/S01/Star.Trek.Voyager.s01e03.Parallax.x264-LMK.mkv|tv_show
 TV Shows/Star Trek Voyager/S01/Star.Trek.Voyager.s01e04.Time.And.Again.x264-LMK.mkv|tv_show
@@ -1204,7 +1215,6 @@ TV Shows/Star Trek Voyager/S07/Star.Trek.Voyager.s07e23.Homestead.x264-LMK.mkv|t
 TV Shows/Star Trek Voyager/S07/Star.Trek.Voyager.s07e24.Renaissance.Man.x264-LMK.mkv|tv_show
 TV Shows/Star Trek Voyager/S07/Star.Trek.Voyager.s07e25-26.Endgame.x264-LMK.mkv|tv_show
 TV Shows/Stargate SG-1/Season 1/Stargate.SG-1.S01E01.iNT.DVDRip.XviD-LOCK.avi|tv_show
-TV Shows/Stargate SG-1/Season 1/Stargate.SG-1.S01E010.iNT.DVDRip.XviD-LOCK.avi|tv_show
 TV Shows/Stargate SG-1/Season 1/Stargate.SG-1.S01E02.iNT.DVDRip.XviD-LOCK.avi|tv_show
 TV Shows/Stargate SG-1/Season 1/Stargate.SG-1.S01E03.iNT.DVDRip.XviD-LOCK.avi|tv_show
 TV Shows/Stargate SG-1/Season 1/Stargate.SG-1.S01E04.iNT.DVDRip.XviD-LOCK.avi|tv_show
@@ -1213,6 +1223,7 @@ TV Shows/Stargate SG-1/Season 1/Stargate.SG-1.S01E06-.iNT.DVDRip.XviD-LOCK.avi|t
 TV Shows/Stargate SG-1/Season 1/Stargate.SG-1.S01E07.iNT.DVDRip.XviD-LOCK.avi|tv_show
 TV Shows/Stargate SG-1/Season 1/Stargate.SG-1.S01E08.iNT.DVDRip.XviD-LOCK.avi|tv_show
 TV Shows/Stargate SG-1/Season 1/Stargate.SG-1.S01E09.iNT.DVDRip.XviD-LOCK.avi|tv_show
+TV Shows/Stargate SG-1/Season 1/Stargate.SG-1.S01E010.iNT.DVDRip.XviD-LOCK.avi|tv_show
 TV Shows/Stargate SG-1/Season 1/Stargate.SG-1.S01E11.iNT.DVDRip.XviD-LOCK.avi|tv_show
 TV Shows/Stargate SG-1/Season 1/Stargate.SG-1.S01E12.iNT.DVDRip.XviD-LOCK.avi|tv_show
 TV Shows/Stargate SG-1/Season 1/Stargate.SG-1.S01E13.iNT.DVDRip.XviD-LOCK.avi|tv_show
@@ -1224,26 +1235,6 @@ TV Shows/Stargate SG-1/Season 1/Stargate.SG-1.S01E18.iNT.DVDRip.XviD-LOCK.avi|tv
 TV Shows/Stargate SG-1/Season 1/Stargate.SG-1.S01E19.iNT.DVDRip.XviD-LOCK.avi|tv_show
 TV Shows/Stargate SG-1/Season 1/Stargate.SG-1.S01E20.iNT.DVDRip.XviD-LOCK.avi|tv_show
 TV Shows/Stargate SG-1/Season 1/Stargate.SG-1.S01E21.iNT.DVDRip.XviD-LOCK.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x01.flesh_and_blood.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x02.morpheus.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x03.the_pegasus_project.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x04.insiders.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x05.uninvited.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x06.200.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x07.counterstrike.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x08.memento_mori.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x09.company_of_thieves.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x10.the_quest.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x11.the_quest_part_2.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x12.line_in_the_sand.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x13.road_not_taken.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x14.the_shroud.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x15.bounty.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x16.bad_guys.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x17.talion.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x18.family_ties.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x19.dominion.dvdrip_xvid-fov.avi|tv_show
-TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x20.unending.dvdrip_xvid-fov.avi|tv_show
 TV Shows/Stargate SG-1/Season 2/Stargate.SG1.S02E01.AC3.DivX.DVDRip-AMC.avi|tv_show
 TV Shows/Stargate SG-1/Season 2/Stargate.SG1.S02E02.AC3.DivX.DVDRip-AMC.avi|tv_show
 TV Shows/Stargate SG-1/Season 2/Stargate.SG1.S02E03.AC3.DivX.DVDRip-AMC.avi|tv_show
@@ -1310,12 +1301,6 @@ TV Shows/Stargate SG-1/Season 4/Stargate.SG1.S04E19.AC3.DivX.DVDRip-AMC.avi|tv_s
 TV Shows/Stargate SG-1/Season 4/Stargate.SG1.S04E20.AC3.DivX.DVDRip-AMC.avi|tv_show
 TV Shows/Stargate SG-1/Season 4/Stargate.SG1.S04E21.AC3.DivX.DVDRip-AMC.avi|tv_show
 TV Shows/Stargate SG-1/Season 4/Stargate.SG1.S04E22.AC3.DivX.DVDRip-AMC.avi|tv_show
-TV Shows/Stargate SG-1/Season 5/Stargate.SG-1.S05E17.DVDRip.DivX-SFM.avi|tv_show
-TV Shows/Stargate SG-1/Season 5/Stargate.SG-1.S05E18.DVDRip.DivX-SFM.avi|tv_show
-TV Shows/Stargate SG-1/Season 5/Stargate.SG-1.S05E19.DVDRip.DivX-SFM.avi|tv_show
-TV Shows/Stargate SG-1/Season 5/Stargate.SG-1.S05E20.DVDRip.DivX-SFM.avi|tv_show
-TV Shows/Stargate SG-1/Season 5/Stargate.SG-1.S05E21.DVDRip.DivX-SFM.avi|tv_show
-TV Shows/Stargate SG-1/Season 5/Stargate.SG-1.S05E22.DVDRip.DivX-SFM.avi|tv_show
 TV Shows/Stargate SG-1/Season 5/Stargate.SG1.S05E01.AC3.DivX.DVDRip-AMC.avi|tv_show
 TV Shows/Stargate SG-1/Season 5/Stargate.SG1.S05E02.AC3.DivX.DVDRip-AMC.avi|tv_show
 TV Shows/Stargate SG-1/Season 5/Stargate.SG1.S05E03.AC3.DivX.DVDRip-AMC.avi|tv_show
@@ -1332,6 +1317,12 @@ TV Shows/Stargate SG-1/Season 5/Stargate.SG1.S05E13.AC3.DivX.DVDRip-AMC.avi|tv_s
 TV Shows/Stargate SG-1/Season 5/Stargate.SG1.S05E14.AC3.DivX.DVDRip-AMC.avi|tv_show
 TV Shows/Stargate SG-1/Season 5/Stargate.SG1.S05E15.PROPER.AC3.DivX.DVDRip-AMC.avi|tv_show
 TV Shows/Stargate SG-1/Season 5/Stargate.SG1.S05E16.PROPER.AC3.DivX.DVDRip-AMC.avi|tv_show
+TV Shows/Stargate SG-1/Season 5/Stargate.SG-1.S05E17.DVDRip.DivX-SFM.avi|tv_show
+TV Shows/Stargate SG-1/Season 5/Stargate.SG-1.S05E18.DVDRip.DivX-SFM.avi|tv_show
+TV Shows/Stargate SG-1/Season 5/Stargate.SG-1.S05E19.DVDRip.DivX-SFM.avi|tv_show
+TV Shows/Stargate SG-1/Season 5/Stargate.SG-1.S05E20.DVDRip.DivX-SFM.avi|tv_show
+TV Shows/Stargate SG-1/Season 5/Stargate.SG-1.S05E21.DVDRip.DivX-SFM.avi|tv_show
+TV Shows/Stargate SG-1/Season 5/Stargate.SG-1.S05E22.DVDRip.DivX-SFM.avi|tv_show
 TV Shows/Stargate SG-1/Season 6/stargate.sg-1.s06e01.dvdrip.divx-sfm.avi|tv_show
 TV Shows/Stargate SG-1/Season 6/stargate.sg-1.s06e02.dvdrip.divx-sfm.avi|tv_show
 TV Shows/Stargate SG-1/Season 6/stargate.sg-1.s06e03.dvdrip.divx-sfm.avi|tv_show
@@ -1375,6 +1366,8 @@ TV Shows/Stargate SG-1/Season 7/stargate.sg-1.s07e18.dvdrip.xvid-sfm.avi|tv_show
 TV Shows/Stargate SG-1/Season 7/stargate.sg-1.s07e19.dvdrip.xvid-sfm.avi|tv_show
 TV Shows/Stargate SG-1/Season 7/stargate.sg-1.s07e20.dvdrip.xvid-sfm.avi|tv_show
 TV Shows/Stargate SG-1/Season 7/stargate.sg-1.s07e21e22.dvdrip.xvid-sfm.avi|tv_show
+TV Shows/Stargate SG-1/Season 7/stargate.sg-1.s07e21e22.dvdrip.xvid-sfm.avi|tv_show
+TV Shows/Stargate SG-1/Season 8/Stargate.SG-1.S08E01-E02.WS.DVDRip.XviD-MEDiEVAL.avi|tv_show
 TV Shows/Stargate SG-1/Season 8/Stargate.SG-1.S08E01-E02.WS.DVDRip.XviD-MEDiEVAL.avi|tv_show
 TV Shows/Stargate SG-1/Season 8/Stargate.SG-1.S08E03.WS.DVDRip.XviD-RiVER.avi|tv_show
 TV Shows/Stargate SG-1/Season 8/Stargate.SG-1.S08E04.WS.DVDRip.XviD-RiVER.avi|tv_show
@@ -1414,6 +1407,26 @@ TV Shows/Stargate SG-1/Season 9/Stargate.SG-1.S09E17.The.Scourge.WS.DVDrip.XviD-
 TV Shows/Stargate SG-1/Season 9/Stargate.SG-1.S09E18.Arthurs.Mantle.WS.DVDrip.XviD-SAiNTS.avi|tv_show
 TV Shows/Stargate SG-1/Season 9/Stargate.SG-1.S09E19.Crusade.WS.DVDrip.XviD-SAiNTS.avi|tv_show
 TV Shows/Stargate SG-1/Season 9/Stargate.SG-1.S09E20.Camelot.WS.DVDrip.XviD-SAiNTS.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x01.flesh_and_blood.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x02.morpheus.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x03.the_pegasus_project.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x04.insiders.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x05.uninvited.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x06.200.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x07.counterstrike.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x08.memento_mori.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x09.company_of_thieves.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x10.the_quest.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x11.the_quest_part_2.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x12.line_in_the_sand.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x13.road_not_taken.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x14.the_shroud.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x15.bounty.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x16.bad_guys.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x17.talion.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x18.family_ties.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x19.dominion.dvdrip_xvid-fov.avi|tv_show
+TV Shows/Stargate SG-1/Season 10/stargate_sg-1.10x20.unending.dvdrip_xvid-fov.avi|tv_show
 TV Shows/Terminator The Sarah Connor Chronicles/S01/Terminator.The.Sarah.Connor.Chronicles.S01E01.720p.BluRay.HQ.x265.10bit-GalaxyTV.mkv|tv_show
 TV Shows/Terminator The Sarah Connor Chronicles/S01/Terminator.The.Sarah.Connor.Chronicles.S01E02.720p.BluRay.HQ.x265.10bit-GalaxyTV.mkv|tv_show
 TV Shows/Terminator The Sarah Connor Chronicles/S01/Terminator.The.Sarah.Connor.Chronicles.S01E03.720p.BluRay.HQ.x265.10bit-GalaxyTV.mkv|tv_show
@@ -1453,169 +1466,6 @@ TV Shows/Terminator Zero/Terminator.Zero.S01E05.DUBBED.720p.NF.WEBRip.x264-Galax
 TV Shows/Terminator Zero/Terminator.Zero.S01E06.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mkv|tv_show
 TV Shows/Terminator Zero/Terminator.Zero.S01E07.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mkv|tv_show
 TV Shows/Terminator Zero/Terminator.Zero.S01E08.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The 100/S 01/The.100.S01E01.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 01/The.100.S01E02.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 01/The.100.S01E03.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 01/The.100.S01E04.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 01/The.100.S01E05.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 01/The.100.S01E06.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 01/The.100.S01E07.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 01/The.100.S01E08.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 01/The.100.S01E09.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 01/The.100.S01E10.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 01/The.100.S01E11.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 01/The.100.S01E12.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 01/The.100.S01E13.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 02/The.100.S02E01.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 02/The.100.S02E02.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 02/The.100.S02E03.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 02/The.100.S02E04.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 02/The.100.S02E05.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 02/The.100.S02E06.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 02/The.100.S02E07.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 02/The.100.S02E08.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 02/The.100.S02E09.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 02/The.100.S02E10.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 02/The.100.S02E11.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 02/The.100.S02E12.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 02/The.100.S02E13.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 02/The.100.S02E14.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 02/The.100.S02E15.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 02/The.100.S02E16.HDTV.x264-ChameE.mkv|tv_show
-TV Shows/The 100/S 03/The 100 S03E01 Wanheda, Part 1.mkv|tv_show
-TV Shows/The 100/S 03/The 100 S03E02 Wanheda, Part 2.mkv|tv_show
-TV Shows/The 100/S 03/The 100 S03E03 Ye Who Enter Here.mkv|tv_show
-TV Shows/The 100/S 03/The 100 S03E04 Watch the Thrones.mkv|tv_show
-TV Shows/The 100/S 03/The 100 S03E05 Hakeldama.mkv|tv_show
-TV Shows/The 100/S 03/The 100 S03E06 Bitter Harvest.mkv|tv_show
-TV Shows/The 100/S 03/The 100 S03E07 Thirteen.mkv|tv_show
-TV Shows/The 100/S 03/The 100 S03E08 Terms and Conditions.mkv|tv_show
-TV Shows/The 100/S 03/The 100 S03E09 Stealing Fire.mkv|tv_show
-TV Shows/The 100/S 03/The 100 S03E10 Fallen.mkv|tv_show
-TV Shows/The 100/S 03/The 100 S03E11 Nevermore.mkv|tv_show
-TV Shows/The 100/S 03/The 100 S03E12 Demons.mkv|tv_show
-TV Shows/The 100/S 03/The 100 S03E13 Join or Die.mkv|tv_show
-TV Shows/The 100/S 03/The 100 S03E14 Red Sky at Morning.mkv|tv_show
-TV Shows/The 100/S 03/The 100 S03E15 Perverse Instantiation, Part 1.mkv|tv_show
-TV Shows/The 100/S 03/The 100 S03E16 Perverse Instantiation, Part 2.mkv|tv_show
-TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E01.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
-TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E02.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
-TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E03.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
-TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E04.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
-TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E05.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
-TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E06.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
-TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E07.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
-TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E08.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
-TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E09.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
-TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E10.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
-TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E11.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
-TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E12.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
-TV Shows/The 100/S 04/Crazy4TV.com - The.100.S04E13.720p.HDTV.x265.HEVC.Crazy4ad.mkv|tv_show
-TV Shows/The 100/S 05/The 100 S05E01 Eden.mkv|tv_show
-TV Shows/The 100/S 05/The 100 S05E02 Red Queen.mkv|tv_show
-TV Shows/The 100/S 05/The 100 S05E03 Sleeping Giants.mkv|tv_show
-TV Shows/The 100/S 05/The 100 S05E04 Pandora's Box.mkv|tv_show
-TV Shows/The 100/S 05/The 100 S05E05 Shifting Sands.mkv|tv_show
-TV Shows/The 100/S 05/The 100 S05E06 Exit Wounds.mkv|tv_show
-TV Shows/The 100/S 05/The 100 S05E07 Acceptable Losses.mkv|tv_show
-TV Shows/The 100/S 05/The 100 S05E08 How We Get to Peace.mkv|tv_show
-TV Shows/The 100/S 05/The 100 S05E09 Sic Semper Tyrannis.mkv|tv_show
-TV Shows/The 100/S 05/The 100 S05E10 The Warriors Will.mkv|tv_show
-TV Shows/The 100/S 05/The 100 S05E11 The Dark Year.mkv|tv_show
-TV Shows/The 100/S 05/The 100 S05E12 Damocles – Part One.mkv|tv_show
-TV Shows/The 100/S 05/The 100 S05E13 Damocles – Part Two.mkv|tv_show
-TV Shows/The Expanse/S01/The Expanse - S01 E01 - Dulcinea (720p HDTV).mp4|tv_show
-TV Shows/The Expanse/S01/The Expanse - S01 E02 - The Big Empty (720p HDTV).mp4|tv_show
-TV Shows/The Expanse/S01/The Expanse - S01 E03 - Remember the Cant (720p HDTV).mp4|tv_show
-TV Shows/The Expanse/S01/The Expanse - S01 E04 - CQB aka Close Quarters Battle (720p HDTV).mp4|tv_show
-TV Shows/The Expanse/S01/The Expanse - S01 E05 - Back to the Butcher (720p HDTV).mp4|tv_show
-TV Shows/The Expanse/S01/The Expanse - S01 E06 - Rock Bottom (720p HDTV).mp4|tv_show
-TV Shows/The Expanse/S01/The Expanse - S01 E07 - Windmills (720p HDTV).mp4|tv_show
-TV Shows/The Expanse/S01/The Expanse - S01 E08 - Salvage (720p HDTV).mp4|tv_show
-TV Shows/The Expanse/S01/The Expanse - S01 E09 - Critical Mass (720p HDTV).mp4|tv_show
-TV Shows/The Expanse/S01/The Expanse - S01 E10 - Leviathan Wakes (720p HDTV).mp4|tv_show
-TV Shows/The Expanse/S02/The EXPANSE - S02 E01 - Safe (720p AMZN WebRip).mp4|tv_show
-TV Shows/The Expanse/S02/The EXPANSE - S02 E02 - Doors and Corners (720p AMZN WebRip).mp4|tv_show
-TV Shows/The Expanse/S02/The EXPANSE - S02 E03 - Static (720p AMZN WebRip).mp4|tv_show
-TV Shows/The Expanse/S02/The EXPANSE - S02 E04 - Godspeed (720p AMZN WebRip).mp4|tv_show
-TV Shows/The Expanse/S02/The EXPANSE - S02 E05 - Home (720p AMZN WebRip).mp4|tv_show
-TV Shows/The Expanse/S02/The EXPANSE - S02 E06 - Paradigm Shift (720p AMZN WebRip).mp4|tv_show
-TV Shows/The Expanse/S02/The EXPANSE - S02 E07 - The Seventh Man (720p AMZN WebRip).mp4|tv_show
-TV Shows/The Expanse/S02/The EXPANSE - S02 E08 - Pyre (720p AMZN WebRip).mp4|tv_show
-TV Shows/The Expanse/S02/The EXPANSE - S02 E09 - The Weeping Somnambulist (720p AMZN WebRip).mp4|tv_show
-TV Shows/The Expanse/S02/The EXPANSE - S02 E10 - Cascade (720p AMZN WebRip).mp4|tv_show
-TV Shows/The Expanse/S02/The EXPANSE - S02 E11 - Here There Be Dragons (720p AMZN WebRip).mp4|tv_show
-TV Shows/The Expanse/S02/The EXPANSE - S02 E12 - The Monster and the Rocket (720p AMZN WebRip).mp4|tv_show
-TV Shows/The Expanse/S02/The EXPANSE - S02 E13 - Caliban's War (720p AMZN WebRip).mp4|tv_show
-TV Shows/The Expanse/S03/The EXPANSE - S03 E01 - Fight or Flight (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S03/The EXPANSE - S03 E02 - IFF (720p Repack - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S03/The EXPANSE - S03 E03 - Assured Destruction (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S03/The EXPANSE - S03 E04 - Reload (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S03/The EXPANSE - S03 E05 - Triple Point (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S03/The EXPANSE - S03 E06 - Immolation (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S03/The EXPANSE - S03 E07 - Delta-V (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S03/The EXPANSE - S03 E08 - It Reaches Out (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S03/The EXPANSE - S03 E09 - Intransigence (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S03/The EXPANSE - S03 E10 - Dandelion Sky (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S03/The EXPANSE - S03 E11 - Fallen World (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S03/The EXPANSE - S03 E12 - Congregation (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S03/The EXPANSE - S03 E13 - Abaddon's Gate (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S04/The EXPANSE - S04 E01 - New Terra (720p - AMZN Web-DL).mp4.mp4|tv_show
-TV Shows/The Expanse/S04/The EXPANSE - S04 E02 - Jetsam (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S04/The EXPANSE - S04 E03 - Subduction (720p - AMZN Web-DL).mp4.mp4|tv_show
-TV Shows/The Expanse/S04/The EXPANSE - S04 E04 - Retrograde (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S04/The EXPANSE - S04 E05 - Oppressor (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S04/The EXPANSE - S04 E06 - Displacement (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S04/The EXPANSE - S04 E07 - A Shot in The Dark (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S04/The EXPANSE - S04 E08 - The One-Eyed Man (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S04/The EXPANSE - S04 E09 - Saeculum (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S04/The EXPANSE - S04 E10 - Cibola Burn (720p - AMZN Web-DL).mp4|tv_show
-TV Shows/The Expanse/S05/The.Expanse.S05E01.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Expanse/S05/The.Expanse.S05E02.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Expanse/S05/The.Expanse.S05E03.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Expanse/S05/The.Expanse.S05E04.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Expanse/S05/The.Expanse.S05E05.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Expanse/S05/The.Expanse.S05E06.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Expanse/S05/The.Expanse.S05E07.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Expanse/S05/The.Expanse.S05E08.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Expanse/S05/The.Expanse.S05E09.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Expanse/S05/The.Expanse.S05E10.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S01/The.Orville.S01E01.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S01/The.Orville.S01E02.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S01/The.Orville.S01E03.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S01/The.Orville.S01E04.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S01/The.Orville.S01E05.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S01/The.Orville.S01E06.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S01/The.Orville.S01E07.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S01/The.Orville.S01E08.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S01/The.Orville.S01E09.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S01/The.Orville.S01E10.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S01/The.Orville.S01E11.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S01/The.Orville.S01E12.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S02/The.Orville.S02E01.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S02/The.Orville.S02E02.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S02/The.Orville.S02E03.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S02/The.Orville.S02E04.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S02/The.Orville.S02E05.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S02/The.Orville.S02E06.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S02/The.Orville.S02E07.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S02/The.Orville.S02E08.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S02/The.Orville.S02E09.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S02/The.Orville.S02E10.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S02/The.Orville.S02E11.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S02/The.Orville.S02E12.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S02/The.Orville.S02E13.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S02/The.Orville.S02E14.720p.AMZN.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S03/The.Orville.S03E01.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S03/The.Orville.S03E02.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S03/The.Orville.S03E03.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S03/The.Orville.S03E04.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S03/The.Orville.S03E05.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S03/The.Orville.S03E06.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S03/The.Orville.S03E07.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S03/The.Orville.S03E08.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S03/The.Orville.S03E09.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
-TV Shows/The Orville/S03/The.Orville.S03E10.720p.DSNP.WEBRip.x264-GalaxyTV.mkv|tv_show
 TV Shows/Westworld/S01/Westworld S01E01 720p HDTV x265 AAC [GWC].mkv|tv_show
 TV Shows/Westworld/S01/Westworld S01E02 720p HDTV x265 AAC [GWC].mkv|tv_show
 TV Shows/Westworld/S01/Westworld S01E03 720p HDTV x265 AAC [GWC].mkv|tv_show
@@ -1652,3 +1502,157 @@ TV Shows/Westworld/S04/Westworld.S04E05.720p.HMAX.WEBRip.x264-GalaxyTV.mkv|tv_sh
 TV Shows/Westworld/S04/Westworld.S04E06.720p.HMAX.WEBRip.x264-GalaxyTV.mkv|tv_show
 TV Shows/Westworld/S04/Westworld.S04E07.720p.HMAX.WEBRip.x264-GalaxyTV.mkv|tv_show
 TV Shows/Westworld/S04/Westworld.S04E08.720p.HMAX.WEBRip.x264-GalaxyTV.mkv|tv_show
+Genres/Sci-Fi/The.Adam.Project.2022.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4|movie
+Genres/Action/The.Adam.Project.2022.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4|movie
+Genres/Fantasy/Avatar (2009).mp4|movie
+Genres/Fantasy/Avatar.The.Way.Of.Water.2022.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4|movie
+Genres/Sci-Fi/Back to the Future (1985).mp4|movie
+Genres/Sci-Fi/Back to the Future Part II (1989).mp4|movie
+Genres/Sci-Fi/Back to the Future Part III (1990).mp4|movie
+Genres/Sci-Fi/Blade Runner (1982) Final Cut 1080p BluRay.x264 SUJAIDR.mp4|movie
+Genres/UFO/Bob.Lazar.Area.51.and.Flying.Saucers.2018.1080p.NF.WEB-DL.H264-ETRG[EtHD].mkv|movie
+Genres/Sci-Fi/Close Encounters of the Third Kind (1977).mp4|movie
+Genres/Sci-Fi/Contac.1997.720p.x264.YIFY.mkv|movie
+Genres/Sci-Fi/The.Creator.2023.1080p.AMZN.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv|movie
+Genres/Sci-Fi/Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4|movie
+Genres/UFO/I Know What I Saw (2009).avi|movie
+Genres/Sci-Fi/The.Martian.2015.EXTENDED.1080p.BRRip.x264.AAC-ETRG.mp4|movie
+Genres/Action/The Matrix Trilogy/The Matrix (1999).mp4|movie
+Genres/Action/The Matrix Trilogy/The Matrix Reloaded (2003).mp4|movie
+Genres/Action/The Matrix Trilogy/The Matrix Revolutions (2003).mp4|movie
+Genres/Action/The Matrix Trilogy/The.Matrix.Resurrections.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4|movie
+Genres/Comedy/Men In Black/Men In Black (1997).mp4|movie
+Genres/Comedy/Men In Black/Men in Black II (2002).mp4|movie
+Genres/Comedy/Men In Black/Men in Black 3 (2012).mp4|movie
+Genres/Comedy/Men In Black/Men.in.Black.International.2019.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG.mkv|movie
+Genres/Action/Minority Report (2002).mp4|movie
+Genres/UFO/Mirage Men (2013).mp4|movie
+Genres/UFO/Moment.of.Contact.2022.720p.AMZN.WEBRip.800MB.x264-GalaxyRG.mkv|movie
+Genres/Sci-Fi/Ready Player One (2018).mp4|movie
+Genres/Action/RoboCop (1987).avi|movie
+Genres/Action/RoboCop 2.mp4|movie
+Genres/Action/03 RoboCop 3 - Sci-Fi 1993 Eng Spa Multi-Subs 1080p [H264-mp4].mp4|movie
+Genres/Action/04 RoboCop 4 - Sci-Fi 2014 Eng Spa Multi-Subs 1080p [H264-mp4].mp4|movie
+Genres/Star Wars/Rogue One - A Star Wars Story (2016).mkv|movie
+Genres/Star Wars/Star Wars Episode I - The Phantom Menace (1999).mkv|movie
+Genres/Star Wars/Star Wars Episode II - Attack of the Clones (2002).mkv|movie
+Genres/Star Wars/Star Wars Episode III - Revenge of The Sith (2005).mkv|movie
+Genres/Star Wars/Star Wars Episode IV - A New Hope (1977).mkv|movie
+Genres/Star Wars/Star Wars Episode V - The Empire Strikes Back (1980).mkv|movie
+Genres/Star Wars/Star Wars Episode VI - Return Of The Jedi (1983).mkv|movie
+Genres/Star Wars/Star Wars Episode VII - The Force Awakens (2015).mkv|movie
+Genres/Star Wars/Star Wars The Last Jedi (2017).mp4|movie
+Genres/Star Wars/Star Wars Rise of the Skywalker (2019).mp4|movie
+Genres/Star Wars/Star Wars - Clone Wars (2008) [Animated Movie].avi|movie
+Genres/Sci-Fi/Stargate Extended Cut (1994).mp4|movie
+Genres/Action/Starship Troopers (1997).mp4|movie
+Genres/Action/Terminator/The Terminator (1984).mp4|movie
+Genres/Action/Terminator/Terminator.2.Judgment.Day.1991.DC.1080p.BRrip.x264.GAZ.YIFY.mp4|movie
+Genres/Action/Terminator/Terminator 3 Rise of The Machines (2003).mp4|movie
+Genres/Action/Terminator/Terminator Genisys (2015).mp4|movie
+Genres/Action/Terminator/Terminator Salvation (2009).mp4|movie
+Genres/Action/Terminator/Terminator Dark Fate (2019).mp4|movie
+Genres/Sci-Fi/Waterworld (1995).mp4|movie
+Genres/Sci-Fi/Blade.Runner.2049.2017.1080p.BluRay.H264.AAC-RARBG.mp4|movie
+Genres/Sci-Fi/Dune.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4|movie
+Genres/Sci-Fi/Dune.Part.Two.2024.720p.WEBRip.x264.AAC-[YTS.MX].mp4|movie
+Genres/Sci-Fi/ET The Extra Terrestrial (1982).mkv|movie
+Genres/Sci-Fi/The Fifth Element Remastered (1997).mp4|movie
+Genres/Comedy/Galaxy Quest (1999).mp4|movie
+Genres/Drama/Interstellar (2014).mp4|movie
+Genres/Action/Total Recall (1990).mp4|movie
+TV Shows/Quantum Leap/Quantum Leap S01E01, 02 (Genesis).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S01E03 (Star-Crossed).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S01E04 (The Right Hand of God).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S01E05 (How the Tess was Won).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S01E06 (Double Identity).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S01E07 (The Color of Truth).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S01E08 (Camikazi Kid).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S01E09 (Play It Again, Seymour).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E01 (Honeymoon Express).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E02 (Disco Inferno).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E03 (The Americanization of Machiko).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E04 (What Price Gloria).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E05 (Blind Faith).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E06 (Good Morning, Peoria).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E07 (Thou Shalt Not...).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E08 (Jimmy).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E09 (So Help Me God).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E10 (Catch a Falling Star).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E11 (A Portrait for Troian).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E12 (Animal Frat).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E13 (Another Mother).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E14 (All-American).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E15 (Her Charm).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E16 (Freedom).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E17 (Good Night Dear Heart).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E18 (Pool Hall Blues).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E19 (Leaping in Without a Net).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E20 (Maybe Baby).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E21 (Sea Bride).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S02E22 (M.I.A.).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E01 (The Leap Home - Pt1).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E02 (The Leap Home - Pt2).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E03 (Leap of Faith).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E04 (One Strobe over the Line).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E05 (The Boogieman).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E06 (Miss Deep South).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E07 (Black and White on Fire).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E08 (The Great Spontini).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E09 (Rebel without a Clue).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E10 (A Little Miracle).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E11 (Runaway).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E12 (Eight and a Half Months).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E13 (Future Boy).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E14 (Private Dancer).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E15 (Piano Man).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E16 (Southern Comforts).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E17 (Glitter Rock).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E18 (A Hunting We Will Go).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E19 (Last Dance Before Execution).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E20 (Heart of a Champion).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E21 (Nuclear Family).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S03E22 (Shock Theater).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E01 (The Leap Back).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E02 (Play Ball).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E03 (Hurricane).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E04 (Justice).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E05 (Permanent Wave).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E06 (Raped).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E07 (The Wrong Stuff).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E08 (Dreams).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E09 (A Single Drop of Rain).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E10 (Unchained Melody).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E11 (The Play's the Thing).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E12 (Running for Honor).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E13 (Temptation Eyes).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E14 (The Last Gunfighter).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E15 (A Song for the Soul).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E16 (Ghost Ship).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E17 (Roberto).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E18 (It's a Wonderful Life).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E19 (Moments to Live).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E20 (The Curse of Ptah-Hotep).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E21 (Stand Up).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S04E22 (Leap for Lisa).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E01, E02 (Lee Harvey Oswald).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E03 (Leaping of the Shrew).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E04 (Nowhere to Run).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E05 (Killin' Time).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E06 (Star Light, Star Bright).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E07 (Deliver Us From Evil).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E08 (One Little Heart - 1of3).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E09 (For Your Love - 2of3).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E10 (The Last Door - 3of3).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E11 (Promised Land).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E12 (Tale of Two Sweeties).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E13 (Liberation).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E14 (Dr. Ruth).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E15 (Blood Moon).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E16 (Return of the Evil Leaper).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E17 (Revenge of the Evil Leaper).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E18 (Goodbye Norma Jean).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E19 (The Beast Within).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E20 (The Leap Between the States).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E21 (Memphis Melody).mp4|tv_show
+TV Shows/Quantum Leap/Quantum Leap S05E22 (Mirror Image).mp4|tv_show
