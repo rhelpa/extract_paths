@@ -3,7 +3,7 @@
     "channel_number": 22,
 
     "schedule_increment": 30,
-    "break_strategy": "standard",
+    "break_strategy": "end",
     "commercial_free": false, 
 
     "catalog_path" : "catalog/tooner22_catalog.bin",

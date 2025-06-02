@@ -2,8 +2,8 @@
     "network_name" : "supergrit77",
     "channel_number": 77,
 
-    "schedule_increment": 22,
-    "break_strategy": "standard",
+    "schedule_increment": 30,
+    "break_strategy": "end",
     "commercial_free": false, 
 
     "catalog_path" : "catalog/supergrit77_catalog.bin",

@@ -2,7 +2,7 @@
     "network_name" : "farout44",
     "channel_number": 44,
 
-    "schedule_increment": 22,
+    "schedule_increment": 30,
     "break_strategy": "standard",
     "commercial_free": false, 
 
